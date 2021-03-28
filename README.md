@@ -1,9 +1,9 @@
 # SimpleUserPortal
 
 ## Login Credential
-*Email* : admin@system.com
-*Password* : admin
-*Database name* : userportal
+- *Email* : admin@system.com
+- *Password* : admin
+- *Database name* : userportal
 
 
 ## Tools and Technology
